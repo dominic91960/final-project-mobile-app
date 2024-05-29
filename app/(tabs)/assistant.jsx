@@ -1,12 +1,12 @@
 import { View, Text } from "react-native";
 import React from "react";
 
-const Create = () => {
+const Assistant = () => {
   return (
     <View>
-      <Text>Create</Text>
+      <Text>Assistant</Text>
     </View>
   );
 };
 
-export default Create;
+export default Assistant;
